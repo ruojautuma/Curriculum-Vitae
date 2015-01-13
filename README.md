@@ -2,10 +2,10 @@
 ```javascript
 var personal_info =
     {
-        "Name": "Henri Koski"
-        "Address": "Kandintie 1 H 60"
-        "Date of birth": "new Date(1991,4,4)"
-        "E-mail": "henri.t.koski@gmail.com"
+        "Name": "Henri Koski",
+        "Address": "Kandintie 1 H 60",
+        "Date of birth": new Date(1991,4,4),
+        "E-mail": "henri.t.koski@gmail.com",
         "Phone": "0442696091"
     };
 ```
