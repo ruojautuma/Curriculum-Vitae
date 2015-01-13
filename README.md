@@ -8,6 +8,7 @@ var coder = {
                 DateOfBirth: new Date(1991, 4, 4),
                 Email: "henri.t.koski@gmail.com",
                 Phone: "0442696091",
+                IRC: "heppu_ @ IRCnet",
                 Linkedin: "http://linkd.in/1u2V4an"
             };
 ```
