@@ -1,6 +1,7 @@
 # Curriculum Vitae
+Personal Information
+---------
 ```javascript
-var personal_info =
     {
         Name: "Henri Koski",
         Address: "Kandintie 1 H 60, Oulu, Finland",
