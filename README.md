@@ -15,20 +15,17 @@ Education
 
 2011-2017 (expected)
 
-> University of Oulu</br>Computer science and engineering
+> University of Oulu<br>Computer science and engineering
 
 2007-2010
 
-> Kalajoen Lukio
-
-> Upper secondary school graduate
+> Kalajoen Lukio<br>Upper secondary school graduate
   
 Experience
 ----------
 
 Web developer at [Zef Oy](http://www.zef.fi/en/home/)
-> In summer 2014 I worked in small team developing backend services and UI for [zefglobal](http://apps.zefglobal.com/).
-> I created web service with API for website style analyzing using mostly nodejs.
+> In summer 2014 I worked in small team developing backend services and UI for [zefglobal](http://apps.zefglobal.com/).<br>I created web service with API for website style analyzing using mostly nodejs.
 > For frontend development I used mostly Enyo and LESS.
 > I also got familiar with Grunt and Google cloud services.
 
@@ -46,6 +43,4 @@ Mechanic/attendant at [JukuPark Oy](http://www.jukupark.fi/tmp_jukupark_kalajoki
 Hobbies
 ----------
 Co-Founder and Chairman of Bit Brewers Oy
-> During my freetime I run two man company and try to find challenging and interesting projects to nail.
-> Most recently we created dynamic Instagram photo contest service for the City of Helsinki.
-> Currently running competition: [http://lahioprojekti.hel.fi/](http://lahioprojekti.hel.fi/)
+> During my freetime I run two man company and try to find fun and challenging projects to nail.<br>Most recently we created dynamic Instagram photo contest service for the City of Helsinki.<br>Currently running competition: [http://lahioprojekti.hel.fi/](http://lahioprojekti.hel.fi/)
