@@ -1,10 +1,14 @@
 # Curriculum Vitae
-
-    Name Henri Koski
-    Address Kandintie 1 H 60
-    Date of birth 4.5.1991
-    E-mail henri.t.koski@gmail.com
-    Phone 0442696091
+```javascript
+var personal_info =
+    {
+        "Name": "Henri Koski"
+        "Address": "Kandintie 1 H 60"
+        "Date of birth": "new Date(1991,4,4)"
+        "E-mail": "henri.t.koski@gmail.com"
+        "Phone": "0442696091"
+    };
+```
 
 Education
 ---------
