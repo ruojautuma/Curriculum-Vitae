@@ -15,12 +15,12 @@ Education
 
 2011-2017 (expected)
 
-> University of Oulu
-> Computer science and engineering
+> University of Oulu</br>Computer science and engineering
 
 2007-2010
 
 > Kalajoen Lukio
+
 > Upper secondary school graduate
   
 Experience
