@@ -1,11 +1,5 @@
 # Curriculum Vitae
 
-
-
-
-Personal Information
---------------------
-
     Name Henri Koski
     Address Kandintie 1 H 60
     Date of birth 4.5.1991
@@ -17,23 +11,20 @@ Education
 
 2011-2017 (expected)
 
-    University of Oulu
-    Computer science and engineering
+> University of Oulu
+> Computer science and engineering
 
 2007-2010
 
-    Kalajoen Lukio
-    Upper secondary school graduate
+> Kalajoen Lukio
+> Upper secondary school graduate
   
 Experience
 ----------
 
 Web developer at [Zef Oy](http://www.zef.fi/en/home/)
 
-    In summer 2014 I worked in small team developing backend services and UI for [zefglobal](http://apps.zefglobal.com/).
-    I created web service with API for website style analyzing using mostly nodejs.
-    For frontend development I used mostly Enyo and LESS.
-    I also got familiar with Grunt and Google cloud services.
+> In summer 2014 I worked in small team developing backend services and UI for [zefglobal](http://apps.zefglobal.com/). I created web service with API for website style analyzing using mostly nodejs. For frontend development I used mostly Enyo and LESS. I also got familiar with Grunt and Google cloud services.
 
 Research assistant [University of Oulu](http://www.oulu.fi/cse/)
 
