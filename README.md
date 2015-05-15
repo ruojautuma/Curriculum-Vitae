@@ -26,6 +26,10 @@ Education
 Experience
 ----------
 
+**Software engineer [Codemate Ltd](http://www.codemate.com/)** [2015->]
+> In february 2015 I started working as software engineer in Codemate.
+> I have worked in customer projects using whatever techniques needed.
+
 **Research assistant [University of Oulu](http://www.oulu.fi/cse/)** [2014->]
 > In may 2014 when I finished project for my bachelor thesis I was asked to continue
 > working with the project as research assistant. Since then I been developing plugins
