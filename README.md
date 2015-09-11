@@ -1,4 +1,4 @@
-#[Curriculum Vitae](http://heppu.github.io/Curriculum-Vitae/)
+#Curriculum Vitae
 Personal Information
 ---------
 ```javascript
