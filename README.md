@@ -28,9 +28,9 @@ Experience
 
 **Software engineer [Codemate Ltd](http://www.codemate.com/)** [2015->]
 > In february 2015 I started working as software engineer in Codemate.
-> I have worked in customer projects using whatever techniques needed.
+> I have worked in customer projects using multiple techniques such as Go, React, Tornado, C# and many others.
 
-**Research assistant [University of Oulu](http://www.oulu.fi/cse/)** [2014->]
+**Research assistant [University of Oulu](http://www.oulu.fi/cse/)** [2014->2015]
 > In may 2014 when I finished project for my bachelor thesis I was asked to continue
 > working with the project as research assistant. Since then I been developing plugins
 > and dashboard for [AWARE](http://www.awareframework.com). 
@@ -50,17 +50,19 @@ Experience
 Hobbies
 ----------
 **Co-Founder and Chairman of Bit Brewers Oy**
-> During my freetime I run two man company and try to find fun and challenging projects to nail.<br>Most recently we created dynamic Instagram photo contest service for the City of Helsinki.<br>Currently running competition: [http://lahioprojekti.hel.fi/](http://lahioprojekti.hel.fi/)
+> During my freetime I run two man company and try to find fun and challenging projects to nail.<br>Most recently we created dynamic Instagram photo contest service for the City of Helsinki.
 
 Skills
 ----------
 **IT**
+* Go
+* React
 * NodeJS
-* PHP
-* JavaScript and multiple frameworks
 * SQL and noSQL databases
+* JavaScript and frameworks
+* PHP
 * HTML
-* CSS
+* CSS/LESS/SASS
 * Python
 * Java
 * C / C++ / C#
