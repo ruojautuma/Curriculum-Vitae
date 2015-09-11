@@ -35,10 +35,10 @@ Experience
 **Web developer at Zef Oy**  [2014]
 > In summer 2014 I worked in small team developing backend services and UI for zefglobal. I created web service with API for website style analyzing using mostly nodejs. For frontend development I used mostly Enyo and LESS. I also got familiar with Grunt and Google cloud services.
     
-**Process worker at [BetKer Oy](http://www.betker.fi/)** [2010-2013]
+**Process worker at BetKer Oy** [2010-2013]
 > In summers 2010-2013 I worked in various positions operating multiple industrial machines.
 
-**Mechanic/attendant at [JukuPark Oy](http://www.jukupark.fi/tmp_jukupark_kalajoki_site_0.asp?sua=12&lang=3&s=660)**  [2006-2009]
+**Mechanic/attendant at JukuPark Oy**  [2006-2009]
 > In summers 2006-2009 I operated and repaired boats, ATVs and motocross bikes.
 
 
