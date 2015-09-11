@@ -26,19 +26,14 @@ Education
 Experience
 ----------
 
-**Software engineer [Codemate Ltd](http://www.codemate.com/)** [2015->]
-> In february 2015 I started working as software engineer in Codemate.
-> I have worked in customer projects using multiple techniques such as Go, React, Tornado, C# and many others.
+**Software engineer Codemate Ltd** [2015->]
+> In february 2015 I started working as software engineer in Codemate. I have worked in customer projects using multiple techniques such as Go, React, Tornado, C# and many others.
 
-**Research assistant [University of Oulu](http://www.oulu.fi/cse/)** [2014->2015]
-> In may 2014 when I finished project for my bachelor thesis I was asked to continue
-> working with the project as research assistant. Since then I been developing plugins
-> and dashboard for [AWARE](http://www.awareframework.com). 
+**Research assistant University of Oulu** [2014->2015]
+> In may 2014 when I finished project for my bachelor thesis I was asked to continue working with the project as research assistant. Since then I been developing plugins and dashboard for AWARE. 
 
-**Web developer at [Zef Oy](http://www.zef.fi/en/home/)**  [2014]
-> In summer 2014 I worked in small team developing backend services and UI for [zefglobal](http://apps.zefglobal.com/).<br>I created web service with API for website style analyzing using mostly nodejs.
-> For frontend development I used mostly Enyo and LESS.
-> I also got familiar with Grunt and Google cloud services.
+**Web developer at Zef Oy**  [2014]
+> In summer 2014 I worked in small team developing backend services and UI for zefglobal. I created web service with API for website style analyzing using mostly nodejs. For frontend development I used mostly Enyo and LESS. I also got familiar with Grunt and Google cloud services.
     
 **Process worker at [BetKer Oy](http://www.betker.fi/)** [2010-2013]
 > In summers 2010-2013 I worked in various positions operating multiple industrial machines.
@@ -50,7 +45,7 @@ Experience
 Hobbies
 ----------
 **Co-Founder and Chairman of Bit Brewers Oy**
-> During my freetime I run two man company and try to find fun and challenging projects to nail.<br>Most recently we created dynamic Instagram photo contest service for the City of Helsinki.
+> During my freetime I run two man company and try to find fun and challenging projects to nail. Most recently we created dynamic Instagram photo contest service for the City of Helsinki.
 
 Skills
 ----------
