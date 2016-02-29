@@ -67,6 +67,7 @@ Skills
 * Java
 * C / C++ / C#
 * Linux systems
+* CORBA
 
 **Languages**
 * Finnish (native language)
